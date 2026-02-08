@@ -1,0 +1,1 @@
+# Gerador-De-Sensibilidade-2026
